@@ -1,1 +1,41 @@
+body {
+  font-family:sans-serif;
+}
 
+header {
+  background-color:lightblue;
+  height:60px;
+}
+
+a {
+  border:1px solid darkblue;
+  border-radius:15px;
+  background-color:darkblue;
+  padding:10px;
+  margin:10px;
+  color:white;
+  text-decoration:none;
+}
+
+h1 {
+  font-size:50px;
+  text-align:center;
+}
+
+h2 {
+  font-size:40px;
+}
+
+table {
+  border:1px solid black;
+  border-collapse:collapse;
+  background-color:lightblue;
+  font-size:20px
+}
+
+tr {
+  border:1px solid black
+}
+p {
+  style="font-size:20px;
+}
