@@ -5,6 +5,8 @@ body {
 header {
   background-color:lightblue;
   height:60px;
+  display: flex;
+  justify-content: space-between;
 }
 
 a {
@@ -30,12 +32,12 @@ table {
   border:1px solid black;
   border-collapse:collapse;
   background-color:lightblue;
-  font-size:20px
+  font-size:20px;
 }
 
 tr {
-  border:1px solid black
+  border:1px solid black;
 }
 p {
-  style="font-size:20px;
+  font-size:20px;
 }
