@@ -4,9 +4,9 @@ body {
 
 header {
   background-color:lightblue;
-  height:60px;
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 
 a {
