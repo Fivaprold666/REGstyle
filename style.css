@@ -5,16 +5,12 @@ body {
 }
 
 header {
-  background-color:lightblue;
   display: flex;
   justify-content: space-between;
   padding: 10px;
 }
 
 a {
-  border:1px solid darkblue;
-  border-radius:15px;
-  background-color:darkblue;
   padding:10px;
   margin:10px;
   color:white;
