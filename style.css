@@ -11,41 +11,41 @@ header {
 }
 
 a {
-  padding:10px;
-  margin:10px;
-  color:white;
-  text-decoration:none;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  text-decoration: none;
 }
 
 h1 {
-  font-size:50px;
-  text-align:center;
+  font-size: 50px;
+  text-align: center;
 }
 
 h2 {
-  font-size:40px;
+  font-size: 40px;
 }
 
 table {
-  border:1px solid black;
-  border-collapse:collapse;
-  background-color:lightblue;
-  font-size:20px;
+  border: 1px solid #e1003c;
+  border-collapse: collapse;
+  background-color: #a1de51;
+  font-size: 20px;
 }
 
 p input {
-  border-radius:20px;
-  height:25px;
-  widht:200px;
+  border-radius: 20px;
+  height: 25px;
+  widht: 200px;
 }
 
 tr {
-  border:1px solid black;
+  border: 1px solid #415488;
 }
 p {
-  font-size:20px;
+  font-size: 20px;
 }
 
 footer {
-  background-color:darkgray;
+  background-color: #415488;
 }
